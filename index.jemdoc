@@ -1,13 +1,14 @@
-# jemdoc: menu{MENU}{index.html}, nofooter  
-== CleanBlue
+# jemdoc: menu{MENU}{index.html}
+# jemdoc: notimes
+# jemdoc: addjs{mp}
+= CleanBlue
 
 ~~~
+{}{img_left}{pic/rr.jpeg}{alt text}{WIDTHpx}{HEIGHTpx}{IMGLINKTARGET}
+
+~~~
+
+
 希望2022能好起来。
+    
 希望我自己能好起来。
-~~~
-
-== CP
-
-~~~
-[https://github.com/sunlef/cp]
-~~~
